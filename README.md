@@ -1,0 +1,1 @@
+Welcome to the LeetCode SQL Practice Codes repository on GitHub! This repository contains a collection of SQL solutions for various LeetCode problems. Whether you're preparing for coding interviews or simply looking to sharpen your SQL skills, this repository will serve as a valuable resource for practice and learning.
